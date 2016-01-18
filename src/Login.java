@@ -41,9 +41,9 @@
     /**
      * Create the application.
      */
-    public Login() {
-        initialize();
-    }
+   // public Login() {
+        //initialize();
+   // }
  
     /**
      * Initialize the contents of the frame.
